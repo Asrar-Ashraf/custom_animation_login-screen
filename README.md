@@ -1,4 +1,4 @@
-Fully custom with animated screen in flutter
+**Fully custom with animated screen in flutter**
 A fully custom animated login screen built with Flutter using glassmorphism UI and smooth transitions.
 The screen features a frosted glass card, elegant background, animated text fields, and a glowing interactive login button for a modern user experience.
 
@@ -15,3 +15,5 @@ Responsive layout for all screen sizes
 Clean, reusable Flutter code
 
 🚀 Built with Flutter & Dart.
+
+clone link :   https://github.com/Asrar-Ashraf/custom_animation_login-screen.git

@@ -1,16 +1,17 @@
-# flutter_staggered_animation
+Fully custom with animated screen in flutter
+A fully custom animated login screen built with Flutter using glassmorphism UI and smooth transitions.
+The screen features a frosted glass card, elegant background, animated text fields, and a glowing interactive login button for a modern user experience.
 
-A new Flutter project.
+✨ Features
 
-## Getting Started
+Glassmorphism design (blurred frosted card)
 
-This project is a starting point for a Flutter application.
+Smooth input field and button animations
 
-A few resources to get you started if this is your first Flutter project:
+Gradient/blurred background with subtle motion
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Responsive layout for all screen sizes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clean, reusable Flutter code
+
+🚀 Built with Flutter & Dart.
